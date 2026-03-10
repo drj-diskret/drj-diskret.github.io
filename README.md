@@ -35,16 +35,6 @@ layout: default
   </div>
 
   <div class="contact-item">
-    <span class="contact-label">Signal</span>
-    <div class="contact-body">
-      <div class="copy-row">
-        <span class="contact-value" id="signal-val">@diskret.01</span>
-        <button class="copy-btn" onclick="copyTo('signal-val', this)">Copy</button>
-      </div>
-    </div>
-  </div>
-
-  <div class="contact-item">
     <span class="contact-label">Threema</span>
     <div class="contact-body">
       <div class="copy-row">
@@ -53,4 +43,4 @@ layout: default
   </div>
 </div>
 
-<footer>By introduction only.</footer>
+<footer>NDAs and rigorous security practices are standard.</footer>
