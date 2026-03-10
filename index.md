@@ -38,7 +38,7 @@ layout: default
     <span class="contact-label">Threema</span>
     <div class="contact-body">
       <div class="copy-row">
-      <!-- <img src="/threema-qr.webp" alt="Threema QR" style="margin-top:0.6rem;width:96px;height:96px;border-radius:4px;" /> -->
+      <!-- <img src="/threema-qr.jpg" alt="Threema QR" style="margin-top:0.6rem;width:96px;height:96px;border-radius:4px;" /> -->
     </div>
   </div>
 </div>
