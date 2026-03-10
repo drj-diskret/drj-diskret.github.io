@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-  <div class="business-name">Diskret/div>
+  <div class="business-name">Diskret</div>
   <div class="tagline">Pentesting, offensive security tooling, and building labs that mirror the messy real world.</div>
   <div class="divider"></div>
 </header>
