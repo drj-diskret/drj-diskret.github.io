@@ -43,7 +43,7 @@ body {
   to { opacity: 1; transform: translateY(0); }
 }
 
-header { margin-bottom: 2.8rem; }
+header { margin-bottom: 1.8rem; }
 
 .business-name {
   font-size: clamp(1.7rem, 5vw, 2.4rem);
@@ -55,7 +55,7 @@ header { margin-bottom: 2.8rem; }
 }
 
 .tagline {
-  margin-top: 0.6rem;
+  margin-top: 1.2rem;
   font-size: 0.85rem;
   font-family: var(--mono);
   color: var(--muted);
