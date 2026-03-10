@@ -14,7 +14,7 @@ layout: default
     <span class="contact-label">Email</span>
     <div class="contact-body">
       <div class="copy-row">
-        <span class="contact-value" id="email-val">website@diskret.io<</span>
+        <span class="contact-value" id="email-val">website@diskret.io</span>
         <button class="copy-btn" onclick="copyTo('email-val', this)">Copy</button>
       </div>
       <span class="contact-note">PGP encryption preferred, see key below.</span>
@@ -29,7 +29,7 @@ layout: default
         <button class="copy-btn" onclick="copyTo('pgp-fp', this)">Copy fingerprint</button>
       </div>
       <div class="pgp-links">
-        <a class="pgp-link" href="/publickey.asc">Download public key ↓</a>
+        <a class="pgp-link" href="/publickey.asc">Download public key</a>
       </div>
     </div>
   </div>
