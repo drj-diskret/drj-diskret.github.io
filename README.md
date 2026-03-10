@@ -17,7 +17,7 @@ layout: default
         <span class="contact-value" id="email-val">website@diskret.io<</span>
         <button class="copy-btn" onclick="copyTo('email-val', this)">Copy</button>
       </div>
-      <span class="contact-note">PGP encryption prefered.</span>
+      <span class="contact-note">PGP encryption preferred, see key below.</span>
     </div>
   </div>
 
