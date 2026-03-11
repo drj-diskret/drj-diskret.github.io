@@ -43,4 +43,4 @@ layout: default
   </div>
 </div>
 
-<footer>NDAs and rigorous security practices are standard. <a href="/standards" class="footer-link">Legal & ethical standards.</a></footer>
+<footer><a href="/standards" class="footer-link">Legal & ethical standards.</a></footer>
