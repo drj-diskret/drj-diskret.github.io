@@ -176,6 +176,13 @@ header { margin-bottom: 1.8rem; }
 .copy-btn:hover  { color: var(--accent); border-color: var(--accent); }
 .copy-btn.copied { color: #7a9e7a;      border-color: #7a9e7a; }
 
+.standards-body p {
+  font-size: 1rem;
+  color: var(--text);
+  line-height: 1.8;
+  max-width: 480px;
+}
+
 footer {
   margin-top: 2.4rem;
   font-family: var(--mono);
