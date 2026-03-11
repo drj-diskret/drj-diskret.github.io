@@ -183,3 +183,11 @@ footer {
   letter-spacing: 0.1em;
   color: var(--muted);
 }
+
+.footer-link {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border);
+  transition: color 0.2s, border-color 0.2s;
+}
+.footer-link:hover { color: var(--accent); border-color: var(--accent); }
