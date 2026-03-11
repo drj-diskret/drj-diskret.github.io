@@ -4,7 +4,7 @@ layout: default
 
 <header>
   <div class="business-name">Diskret</div>
-  <div class="tagline">Offensive security testing, custom tool development, and IEC 62443-aligned C2 infrastructure for critical environments.</div>
+  <div class="tagline">Securing Critical Infrastructure with Offensive Testing, Custom Tools, and IEC 62443-Aligned Operations.</div>
   <div class="divider"></div>
 </header>
 
