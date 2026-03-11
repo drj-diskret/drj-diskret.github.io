@@ -8,13 +8,9 @@ layout: default
 </header>
 
 <div class="standards-body">
-  <p>
-  Diskret operates under strict legal and ethical standards.
-  <br>
-  We serve vetted clients exclusively within the European Union, in full adherence to applicable law.
-  <br>
-  All engagements are conducted with integrity, discretion, and rigorous security practices.
-  </p>
+  <p>Diskret operates under strict legal and ethical standards.</p>
+  <p>We serve vetted clients exclusively within the European Union, in full adherence to applicable law.</p>
+  <p>All engagements are conducted with integrity, discretion, and rigorous security practices.</p>
 </div>
 
 <footer><a href="/" class="footer-link">← Back</a></footer>
