@@ -4,7 +4,7 @@ layout: default
 
 <header>
   <div class="business-name">Diskret</div>
-  <div class="tagline">Purpose-built offensive security for industrial systems.</div>
+  <div class="tagline">Purpose-built security testing for industrial systems.</div>
   <div class="divider"></div>
 </header>
 
