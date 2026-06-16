@@ -4,7 +4,7 @@ layout: default
 
 <header>
   <div class="business-name">Diskret</div>
-  <div class="tagline">Security testing built for the realities of industrial operations.</div>
+  <div class="tagline">Tested against reality. Do the logs even know?</div>
   <div class="divider"></div>
 </header>
 
