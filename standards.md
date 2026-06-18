@@ -8,9 +8,9 @@ layout: default
 </header>
 
 <div class="standards-body">
-  <p>Diskret operates under strict legal and ethical standards.</p>
-  <p>We serve vetted clients exclusively within the European Economic Area (EEA), in full adherence to applicable laws.</p>
-  <p>All engagements are conducted with integrity, discretion, and rigorous security practices.</p>
+  <p>Integrity, discretion, and rigorous security practices underpin everything we do.</p>
+  <p>We engage only with vetted partners within the European Economic Area (EEA), operating in accordance with applicable laws and ethical standards.</p>
+  <p>We decline work that conflicts with our legal, ethical, or security principles.</p>
 </div>
 
 <footer><a href="/" class="footer-link">← Back</a></footer>
