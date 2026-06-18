@@ -44,4 +44,4 @@ layout: default
   </div>
 </div>
 
-<footer><a href="/standards" class="footer-link">Legal & ethical standards.</a></footer>
+<footer><a href="/standards" class="footer-link">Principles & Standards.</a></footer>
