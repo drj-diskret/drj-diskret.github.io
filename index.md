@@ -4,8 +4,7 @@ layout: default
 
 <header>
   <div class="business-name">Diskret</div>
-  <div class="tagline">Tested against reality.<br> 
-    Do the logs even know?</div>
+  <div class="tagline">Public contact point.</div>
   <div class="divider"></div>
 </header>
 
