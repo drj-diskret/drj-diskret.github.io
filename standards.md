@@ -14,12 +14,7 @@ layout: default
   <p><strong>Discretion.</strong> Access and knowledge come with responsibility.</p>
 
   <p><strong>Curiosity.</strong> Understand before changing. Question before trusting.</p>
-
-  <hr>
-
-  <p class="legal-note">
-    Information received through this channel is handled responsibly and in accordance with applicable law.
-  </p>
+  
 </div>
 
 <footer><a href="/" class="footer-link">← Back</a></footer>
